@@ -65,9 +65,3 @@ const ChessGame = () => {
 export default ChessGame;
 ```
 
-Este código está listo para ser usado en un proyecto React con Tailwind CSS. Para utilizarlo necesitarás:
-
-1. Tener React instalado en tu proyecto
-2. Tener Tailwind CSS configurado
-3. Guardar el archivo como `ChessGame.jsx` o `ChessGame.tsx`
-4. Importar el componente donde quieras usarlo con `import ChessGame from './path/to/ChessGame'`
